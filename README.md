@@ -2,16 +2,7 @@
 
 _PhD Candidate in Politics & International Studies, University of Warwick_
 
-I am a PhD candidate at the University of Warwick, supported by the Chancellor's International Scholarship. My research employs advanced quantitative and qualitative methodologies to examine how Brazil, South Africa, and Indonesia navigate and position themselves within global hierarchies. I specialise in the application of data-driven and computational approaches to International Relations, with a particular emphasis on the analysis of foreign policy discourses and practices. My work integrates mixed methods, including statistical analysis, content analysis, and machine learning techniques, to provide nuanced insights into international political dynamics.
-
-## Research Interests
-
-- International Relations Theory
-- Foreign Policy Analysis
-- Global Hierarchies
-- Diplomatic Studies
-- Global IR
-- Research Methods
+I am a PhD candidate at the University of Warwick, supported by the Chancellor's International Scholarship. My research employs quantitative and qualitative methodologies to examine how Brazil, South Africa, and Indonesia navigate and position themselves within global hierarchies. I specialise in the application of data-driven and computational approaches to International Relations, with a particular emphasis on the analysis of foreign policy discourses and practices. My work integrates mixed methods, including statistical analysis, content analysis, and machine learning techniques.
 
 ## Skills & Tools
 
@@ -25,14 +16,18 @@ I am a PhD candidate at the University of Warwick, supported by the Chancellor's
 - Thematic Analysis
 - Data Visualisation
 
-## Software Interests
+## Research Interests
 
-- Developing efficient workflows for qualitative and quantitative research
-- Applying machine learning and natural language processing to large-scale textual datasets
-- Creating visualisations to effectively communicate complex research findings
+- International Relations Theory
+- Foreign Policy Analysis
+- Global Hierarchies
+- Diplomatic Studies
+- Global IR
+- Research Methods
 
-## Links
+## Where to find me
 
-- [University Profile](#)
-- [LinkedIn](#)
-- [Google Scholar](#)
+- [University Profile](https://warwick.ac.uk/fac/soc/pais/people/simoes-doria-thais/)
+- [LinkedIn](https://www.linkedin.com/in/thais-doria/)
+- [Google Scholar](https://scholar.google.com.br/citations?user=JM0MtDIAAAAJ&hl=pt-BR&oi=ao)
+- [Personal Page](https://thaisdoria.com/)

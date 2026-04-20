@@ -1,74 +1,42 @@
-# Thais Doria
+# Thaís Simões Dória
 
-_PhD Candidate in Politics & International Studies, University of Warwick_
+PhD candidate in Politics and International Studies at the University of Warwick, where I hold the Chancellor's International Scholarship. I apply computational social science and quantitative methods to questions about international order(ing) and agency—combining automated data collection, text-as-data analysis, panel data econometrics, and network analysis with fieldwork and qualitative research across Indonesia, Brazil, and South Africa.
 
-I am a PhD candidate at the University of Warwick, supported by the Chancellor's International Scholarship. My research employs quantitative and qualitative methodologies to examine how Brazil, South Africa, and Indonesia navigate and position themselves within global hierarchies. I specialise in the application of data-driven and computational approaches to International Relations, with a particular emphasis on the analysis of foreign policy discourses and practices. My work integrates mixed methods, including statistical analysis, content analysis, and machine learning techniques.
+## Repositories
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thais-doria/)
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com.br/citations?user=JM0MtDIAAAAJ&hl=pt-BR&oi=ao)
-[![University of Warwick](https://img.shields.io/badge/University_of_Warwick-6D2077?style=for-the-badge&logo=academia&logoColor=white)](https://warwick.ac.uk/fac/soc/pais/people/simoes-doria-thais/)
-[![thaisdoria.com](https://img.shields.io/badge/thaisdoria.com-4a6fa5?style=for-the-badge)](https://thaisdoria.com/)
+| Repository | Description |
+|---|---|
+| [discourses](https://github.com/doriathais/discourses) | Multilingual text analysis pipeline: automated web scraping (R + Python), dictionary-based analysis, topic modelling, and cross-lingual NLP across 15,000+ foreign policy speeches |
+| [quant-pol-analysis-II](https://github.com/doriathais/quant-pol-analysis-II) | Teaching materials for applied quantitative methods in R: seminar scripts, worksheets, and supplementary guides on data retrieval, statistical reporting, and reproducible workflows |
 
----
+## Methods
 
-## Skills & Tools
+![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![MAXQDA](https://img.shields.io/badge/-MAXQDA-1D4E89)
 
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Stata](https://img.shields.io/badge/Stata-1a5276?style=for-the-badge)
-![MAXQDA](https://img.shields.io/badge/MAXQDA-00a3e0?style=for-the-badge)
+**Quantitative social science** — panel data econometrics, robust inference, group-based trajectory modelling, survey data analysis
 
-- Mixed Methods Research Design
-- Dictionary-Based Content Analysis
-- Topic Modelling
-- Textual Data Analysis (including machine learning models)
-- Thematic Analysis
-- Data Visualisation
+**Social network analysis** — network construction from relational data, centrality measures, community detection, temporal network analysis
 
----
+**Computational text analysis and NLP** — automated data collection, dictionary-based analysis, topic modelling, supervised text classification, multilingual NLP 
 
-## Research Interests
-
-- International Relations Theory
-- Foreign Policy Analysis
-- Global Hierarchies
-- Diplomatic Studies
-- Global IR
-- Research Methods
-
----
-
-## Affiliations
-
-- [Latin America at Warwick Network (LAWN)](https://warwick.ac.uk/fac/arts/schoolforcross-facultystudies/research/centre_and_networks/lawn/memberslawn/#doria)
-- [Centre for the Study of Globalisation and Regionalisation (CSGR)](https://warwick.ac.uk/fac/soc/pais/research/researchcentres/csgr/)
-
----
+**Qualitative methods** — qualitative content analysis, discourse analysis, elite interviewing, comparative case study design
 
 ## Teaching
 
-| Year | Course | Institution |
-|------|--------|-------------|
-| 2022–2024 | Introduction to Quantitative Political Analysis II | University of Warwick |
-| 2022–2024 | World Politics | University of Warwick |
+Seminar Leader, Introduction to Quantitative Political Analysis II (R) — University of Warwick, 2022–2023
 
----
+Seminar Leader, World Politics — University of Warwick, 2023–2024
 
-## Awards & Fellowships
+Teaching Assistant, Advanced International Relations Theory — Universidade de São Paulo, 2021–2022
 
-| Year | Award |
-|------|-------|
-| 2025 | ISA Travel Grant |
-| 2024 | Monash Warwick PhD Travel Grant |
-| 2024 | Visiting Fellow — Monash University & Indonesian Islamic International University |
-| 2023–2026 | Chancellor's International Scholarship — University of Warwick |
-| 2018–2020 | CAPES Graduate Scholarship |
+Teaching Assistant, The Rise of the Far-right in Latin America — Universidade Federal de Santa Catarina, 2019–2020
 
----
+## Links
 
-## Education
-
-| Degree | Institution |
-|--------|-------------|
-| PhD in Politics & International Studies _(in progress)_ | University of Warwick |
-| MA in International Relations | UFSC — Universidade Federal de Santa Catarina |
-| BA in International Relations | UFSC — Universidade Federal de Santa Catarina |
+[![Website](https://img.shields.io/badge/Website-thaisdoria.com-blue)](https://thaisdoria.com/)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-green)](https://scholar.google.com.br/citations?user=JM0MtDIAAAAJ&hl=en)
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--5711--7037-brightgreen)](https://orcid.org/0000-0002-5711-7037)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-thais--doria-0A66C2)](https://linkedin.com/in/thais-doria/)

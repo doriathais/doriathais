@@ -8,7 +8,7 @@ PhD candidate in Politics and International Studies at the University of Warwick
 |---|---|
 | [discourses](https://github.com/doriathais/discourses) | Multilingual text analysis pipeline: automated web scraping (R + Python), dictionary-based analysis, topic modelling, and cross-lingual NLP across 15,000+ foreign policy speeches |
 | [quant-pol-analysis-II](https://github.com/doriathais/quant-pol-analysis-II) | Teaching materials for applied quantitative methods in R: seminar scripts, worksheets, and supplementary guides on data retrieval, statistical reporting, and reproducible workflows |
-| [teaching-notes](https://github.com/doriathais/teaching-notes) | Cross-national panel data analysis walkthrough in R: research design, data selection, eight regression models with diagnostics, and critical reflection — 1,800+ lines of annotated code using KOF, V-Dem, and WDI data |
+| [teaching-notes](https://github.com/doriathais/teaching-notes) | Cross-national panel data analysis walkthrough in R: research design, data selection, eight regression models with diagnostics, and critical reflection—1,800+ lines of annotated code using KOF, V-Dem, and WDI data |
 
 
 ## Methods

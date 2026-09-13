@@ -1,6 +1,6 @@
 # Thaís Simões Dória
 
-PhD candidate in Politics and International Studies at the University of Warwick, where I hold the Chancellor's International Scholarship. I apply computational social science and quantitative methods to questions about international order(ing) and agency—combining automated data collection, text-as-data analysis, panel data econometrics, and network analysis with fieldwork and qualitative research across Indonesia, Brazil, and South Africa.
+PhD in Politics and International Studies from the University of Warwick, where I was a recipient of the Chancellor’s International Scholarship. I apply computational social science and quantitative methods to questions about international order(ing) and agency—combining automated data collection, text-as-data analysis, panel data econometrics, and network analysis with fieldwork and qualitative research across Indonesia, Brazil, and South Africa.
 
 ## Repositories
 
